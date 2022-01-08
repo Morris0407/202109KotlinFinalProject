@@ -16,8 +16,8 @@
         android:ems="10"
         android:inputType="textPersonName"
         android:minHeight="48dp"
-        android:text="請輸入寵物名稱"
-        app:layout_constraintStart_toStartOf="parent"
+          android:hint="請輸入寵物名稱"
+          app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
     <ImageButton
